@@ -1,2 +1,2 @@
 # Two-Compartment-Model-Project
-MATH486  semester long project
+MATH486 final project
